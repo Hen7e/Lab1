@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.Properties.Resources.resources
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\bin\Debug\FigureDraw.exe.config
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\bin\Debug\FigureDraw.exe
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\bin\Debug\FigureDraw.pdb
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.exe
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.pdb
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.Form1.resources
+C:\Users\HP\Desktop\ооп\1labnorm\FigureDraw\FigureDraw\obj\Debug\FigureDraw.csprojResolveAssemblyReference.cache
